@@ -53,3 +53,4 @@ next-env.d.ts
 
 # AI-assistant guide — local only, contains private paths/IPs
 CLAUDE.md
+.playwright-mcp/
